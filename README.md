@@ -1,4 +1,4 @@
-# Said Oufkir portfolio
+# Said Oufkir Portfolio
 
 <!-- 
 !vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
