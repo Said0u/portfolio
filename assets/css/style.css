@@ -329,7 +329,7 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  gap: 10px;
+  gap: 25px;
 }
 
 .avatar-box {
